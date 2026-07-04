@@ -1,0 +1,16 @@
+/node_modules
+
+# next.js
+/.next/
+
+# env files
+.env*
+!.env.example
+
+# typescript
+next-env.d.ts
+
+.npmrc
+
+.DS_store
+*/.DS_store
